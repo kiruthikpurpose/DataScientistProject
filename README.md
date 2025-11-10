@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Images/main/data-science-banner.png" width="80%">
+  <img src="https://imarticus.org/blog/wp-content/uploads/2019/07/state2.gif" width="80%">
 </p>
 
 # 📘 Data Science Specialization — Machine Learning Track
